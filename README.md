@@ -40,6 +40,8 @@ content='''
 <h2>1.Django</h2>
 <h2>2. MEAN Stack</h2>
 <h2>3. React </h2>
+<h2>4. apachee</h2>
+<h2>5. lighttpx</h2>
 </body>
 </html>
 '''
@@ -58,7 +60,7 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ## CLIENT  OUTPUT:
 ![clientoutput](clientoutput.jpg)
-##SERVER OUTPUT:
+## SERVER OUTPUT:
 ![serveroutput](serveroutput.jpg)
 ## RESULT:
 The program is executed succesfully
